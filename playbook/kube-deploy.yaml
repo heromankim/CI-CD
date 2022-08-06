@@ -4,4 +4,4 @@
 
   tasks:
   - name: Create & Update Deployments and Service Object for Kubernetes
-    command: kubectl apply -f .
+    command: kubectl apply -f myweb/
